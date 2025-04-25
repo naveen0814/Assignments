@@ -5,7 +5,7 @@ namespace TicketBookingSystem
 {
     public class DatabaseConnection
     {
-        private static string connectionString = "Server=JARVIS-LAPTOP;Database=TicketBookingSystem;Trusted_Connection=True;";
+        private static string connectionString = "Server=NAVEEN;Database=TicketBookingSystem;Trusted_Connection=True;";
 
         public static SqlConnection GetConnection()
         {

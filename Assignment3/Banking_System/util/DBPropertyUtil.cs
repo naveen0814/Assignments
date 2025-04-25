@@ -4,7 +4,7 @@
     {
         public static string GetConnectionString()
         {
-            return "Server=JARVIS-LAPTOP;Database=HMBank;Integrated Security=True;TrustServerCertificate=True;";
+            return "Server=NAVEEN;Database=HMBank;Integrated Security=True;TrustServerCertificate=True;";
         }
 
     }
